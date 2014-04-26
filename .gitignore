@@ -9,3 +9,5 @@ pom.xml.asc
 /.nrepl-port
 /resources/public/cljs
 /resources/public/melody_lake
+/resources/public/goog
+/resources/public/game.js*
